@@ -37,7 +37,7 @@ body {
   height: 30%;
   width: 15%;
   position: absolute;
-  right: 300px;
+  right: 200px;
   top: 0;
 }
 
@@ -45,8 +45,8 @@ body {
   position: absolute;
   height: 30%;
   width: 15%;
-  left: 250px;
-  bottom: 200px;
+  left: 150px;
+  bottom: 100px;
 }
 
 .land {
